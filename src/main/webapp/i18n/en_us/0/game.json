@@ -1,0 +1,139 @@
+{
+    "version": "",
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "from {@minRTP}% to {@maxRTP}%",
+        "paybackTitle": "Expected Payback",
+        "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}.",
+        "subheading": "Ticket Cost: {ticketCost}",
+        "prizeLevel": "Prize Level",
+        "description": "Description",
+        "prizeValue": "Prize Value",
+        "descriptionText1": "Present Win",
+        "descriptionText2": "Bonus Win",
+        "overallChances": "There is a 1 in {odds} overall chance of winning a prize on each play.",
+        "prizeDivision": "Prize Division",
+        "prizeRemaining": "Approximate Prizes Remaining",
+        "oddsPerPlay": "Odds Per Play"
+
+    },
+    "title": "TEMPLATE",
+    "MenuCommand":
+    {
+        "price": "Price",
+        "stake": "Stake",
+        "howToPlay": "Help",
+        "paytable": "Paytable",
+        "close": "Close",
+        "audio":
+        {
+            "sound": "Sound",
+            "on": "On",
+            "off": "Off"
+        }
+    },
+    "Error":
+    {
+        "errorCodePrefix": "Error: ",
+        "genericErrorText": "There has been an internal error. EXIT and relaunch the game."
+    },
+    "Game":
+    {
+        "footer_balance": "BALANCE",
+        "footer_ticketCost": "TICKET COST",
+        "ticketSelect_ticketCost": "TICKET COST",
+        "ticketCostPrefix":
+        {
+            "BUY": "",
+            "TRY": "TRY "
+        },
+        "footer_win":
+        {
+            "BUY": "WIN",
+            "TRY": "DEMO WIN"
+        },
+
+        "button_buy":
+        {
+            "BUY": "BUY",
+            "TRY": "TRY"
+        },
+        "button_try": "TRY",
+        "button_retry": "RETRY",
+        "button_continue": "CONTINUE",
+        "button_moveToMoney": "MOVE TO MONEY",
+        "button_autoPlay_landscape": "REVEAL\nALL",
+        "button_autoPlay_portrait": "REVEAL ALL",
+        "button_autoPlay_bonus_portrait": "AUTO REVEAL",
+        "button_autoPlay_bonus_landscape": "AUTO\nREVEAL",
+        "button_stop": "STOP",
+        "button_playAgain":
+        {
+            "BUY": "PLAY AGAIN",
+            "TRY": "TRY AGAIN"
+        },
+        "button_tryAgain": "TRY AGAIN",
+        "button_ok": "OK",
+        "button_exit": "EXIT",
+
+        "error_button_exit": "EXIT",
+        "error_title": "ERROR",
+
+        "message_nonWin": "BETTER LUCK\nNEXT TIME",
+        "message_win":
+        {
+            "BUY": "TOTAL WIN",
+            "TRY": "TOTAL DEMO WIN"
+        },
+        "howToPlayTitle": "HOW TO PLAY",
+        "howToPlayTitleBonus": "BONUS",
+
+        "howToPlay":
+        {
+            "page1":
+            {
+                "landscape":
+                {
+                    "text1": "Reveal a Green Present to win the corresponding prize.",
+                    "text2": "{redChili}",
+                    "text3": "Reveal Green Presents in all positions of a column to win the corresponding prize multiplier.",
+                    "text4": ""
+                },
+                "portrait":
+                {
+                    "text1": "Reveal a Green Present to win the corresponding prize.",
+                    "text2": "{redChili}",
+                    "text3": "Reveal Green Presents in all positions of a column\nto win the corresponding prize multiplier.",
+                    "text4": ""
+                }
+            },
+            "page2":
+            {
+                "landscape":
+                {
+                    "text1": "Reveal a Golden Present to trigger the Bonus.",
+                    "text2": "{goldChili}",
+                    "text3": "Select tiles to reveal colored symbols or multipliers.\nFill a meter with 4 of the same colored symbol to win the corresponding prize.\n\nStarting from 1x, the multiplier meter moves by the multiplier value revealed.\nThe multiplier value highlighted when a meter is filled is applied to the meter prize."
+
+                },
+                "portrait":
+                {
+                    "text1": "Reveal a Golden Present to trigger the Bonus.",
+                    "text2": "{goldChili}",
+                    "text3": "Select tiles to reveal colored symbols or multipliers.\nFill a meter with 4 of the same colored symbol to win the corresponding prize.\n\nStarting from 1x, the multiplier meter moves by the multiplier value revealed. The multiplier value highlighted when a meter is filled is applied to the meter prize."
+                }
+            }
+        },
+
+        "winUpTo": "WIN UP TO",
+        "bonus": "BONUS",
+        "bonusNoWin": "NO BONUS WIN",
+        "bonusWin": "TOTAL BONUS WIN",
+        "totalWin": "TOTAL WIN",
+        "infoBarText": "WINNINGS ARE MULTIPLIED FOR A COMPLETED COLUMN",
+        "bonusInfo": "REVEAL TO WIN\nPRIZE",
+        "bonusInfo2": "REVEAL TO ENTER\nBONUS",
+        "collectorMeterInfoText": "Reveal tiles in search of Symbols, win the prize of the first completed meter!\n\nAccumulate multipliers for bigger wins!"
+    }
+}

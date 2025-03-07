@@ -1,0 +1,11 @@
+{
+    "showHowToPlayOnLoad": true,
+    "autoPlayPlayerNumberInterval": 0,
+    "autoPlayPlayerRowInterval": 1,
+    "showResultScreen": true,
+    "suppressNonWinResultPlaque": false,
+    "consoleEnabledDuringPlay": true,
+    "autoRevealEnabled": true,
+    "useWinUpToExclamationMark": true
+
+}

@@ -1,0 +1,9 @@
+{
+    "showHowToPlayOnLoad": false,
+    "autoPlayPlayerNumberInterval": 1.2,
+    "autoPlayPlayerRowInterval": 1.2,
+    "showResultScreen": true,
+    "suppressNonWinResultPlaque": false,
+    "consoleEnabledDuringPlay": true,
+    "autoRevealEnabled": true
+}

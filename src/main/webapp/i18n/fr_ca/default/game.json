@@ -1,0 +1,132 @@
+{
+    "version": "",
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP} %",
+        "RTPrange": "de {@minRTP} % à {@maxRTP} %",
+        "paybackTitle": "Taux de retour théorique",
+        "paybackBody": "Pour ce jeu, le taux de retour théorique moyen à long terme est de {RTP}.",
+        "subheading": "Coût d’un billet : {ticketCost}",
+        "prizeLevel": "Niveau du lot",
+        "description": "Description",
+        "prizeValue": "Valeur du lot",
+        "descriptionText1": "Gain actuel",
+        "descriptionText2": "Gain boni",
+        "overallChances": "Vous avez une chance sur {odds} de gagner un lot à chaque partie.",
+        "prizeDivision": "Répartition des lots",
+        "prizeRemaining": "Nombre approximatif de lots restants",
+        "oddsPerPlay": "Chances par partie"
+    },
+    "title": "Cannes de bonbon en folie",
+    "MenuCommand":
+    {
+        "price": "Coût",
+        "stake": "Mise",
+        "howToPlay": "Aide",
+        "paytable": "Table de paiement",
+        "close": "Fermer",
+        "audio":
+        {
+            "sound": "Son",
+            "on": "Activé",
+            "off": "Désactivé"
+        }
+    },
+    "Error":
+    {
+        "errorCodePrefix": "Erreur : ",
+        "genericErrorText": "Une erreur interne est survenue. QUITTEZ le jeu et relancez-le."
+    },
+    "Game":
+    {
+        "footer_balance": "SOLDE",
+        "footer_ticketCost": "COÛT D’UN BILLET",
+        "ticketSelect_ticketCost": "COÛT D’UN BILLET",
+        "ticketCostPrefix":
+        {
+            "BUY": "",
+            "TRY": "ESSAYER "
+        },
+        "footer_win":
+        {
+            "BUY": "GAIN",
+            "TRY": "GAIN FICTIF"
+        },
+        "button_buy":
+        {
+            "BUY": "ACHETER",
+            "TRY": "ESSAYER"
+        },
+        "button_try": "ESSAYER",
+        "button_retry": "RÉESSAYER",
+        "button_continue": "CONTINUER",
+        "button_moveToMoney": "MODE ARGENT RÉEL",
+        "button_autoPlay_landscape": "TOUT\nAFFICHER",
+        "button_autoPlay_portrait": "TOUT AFFICHER",
+        "button_autoPlay_bonus_portrait": "JEU AUTO",
+        "button_autoPlay_bonus_landscape": "JEU\nAUTO",
+        "button_stop": "ARRÊTER",
+        "button_playAgain":
+        {
+            "BUY": "JOUER DE NOUVEAU",
+            "TRY": "ESSAYER DE NOUVEAU"
+        },
+        "button_tryAgain": "ESSAYER DE NOUVEAU",
+        "button_ok": "OK",
+        "button_exit": "QUITTER",
+        "error_button_exit": "QUITTER",
+        "error_title": "ERREUR",
+        "message_nonWin": "MEILLEURE CHANCE\nLA PROCHAINE FOIS",
+        "message_win":
+        {
+            "BUY": "GAIN TOTAL",
+            "TRY": "GAIN FICTIF TOTAL"
+        },
+        "howToPlayTitle": "COMMENT JOUER",
+        "howToPlayTitleBonus": "JEU BONI",
+        "howToPlay":
+        {
+            "page1":
+            {
+                "landscape":
+                {
+                    "text1": "Découvrez un symbole Cadeau vert et gagnez le lot correspondant.",
+                    "text2": "{redChili}",
+                    "text3": "Découvrez des symboles Cadeau vert à toutes les positions d’une colonne et gagnez le multiplicateur correspondant.",
+                    "text4": ""
+                },
+                "portrait":
+                {
+                    "text1": "Découvrez un symbole Cadeau vert et gagnez le lot correspondant.",
+                    "text2": "{redChili}",
+                    "text3": "Obtenez des symboles Cadeau vert à toutes les positions d’une colonne \net gagnez le multiplicateur correspondant.",
+                    "text4": ""
+                }
+            },
+            "page2":
+            {
+                "landscape":
+                {
+                    "text1": "Découvrez un symbole Cadeau doré pour déclencher le jeu boni.",
+                    "text2": "{goldChili}",
+                    "text3": "Sélectionnez des tuiles pour dévoiler des symboles colorés ou des multiplicateurs.\nRemplissez un compteur de quatre symboles colorés identiques et gagnez le lot correspondant.\n\nLe multiplicateur commence à 1 et augmente du nombre dévoilé.\nLorsqu’un compteur est rempli, le lot correspondant est multiplié par le multiplicateur en surbrillance."
+                },
+                "portrait":
+                {
+                    "text1": "Découvrez un symbole Cadeau doré pour déclencher le jeu boni.",
+                    "text2": "{goldChili}",
+                    "text3": "Sélectionnez des tuiles pour dévoiler des symboles colorés ou des multiplicateurs.\nRemplissez un compteur de quatre symboles colorés identiques et gagnez le lot correspondant.\n\nLe multiplicateur commence à 1 et augmente du nombre dévoilé. Lorsqu’un compteur est rempli, le lot correspondant est multiplié par le multiplicateur en surbrillance."
+                }
+            }
+        },
+        "winUpTo": "GAGNEZ JUSQU’À",
+        "bonus": "JEU BONI",
+        "bonusNoWin": "AUCUN GAIN BONI",
+        "bonusWin": "GAIN BONI TOTAL",
+        "totalWin": "GAIN TOTAL",
+        "infoBarText": "LES GAINS SONT MULTIPLIÉS LORSQU’UNE COLONNE COMPLÈTE EST REMPLIE",
+        "bonusInfo": "DÉCOUVREZ LE CADEAU VERT POUR GAGNER DES LOTS",
+        "bonusInfo2": "DÉCOUVREZ LE CADEAU DORÉ POUR DÉCLENCHER LE JEU BONI",
+        "collectorMeterInfoText": "Sélectionnez des tuiles pour découvrir des symboles et gagnez le lot du premier\ncompteur rempli! Additionnez des multiplicateurs pour gagner plus!"
+    }
+}

@@ -1,0 +1,30 @@
+{
+  "urls": [
+    "ch2.mp3",
+    "ch2.ogg",
+    "ch2.m4a"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "BaseSymbolRevealWin": [
+      1050,
+      1424.4671201814058
+    ],
+    "BetUp": [
+      3100,
+      615.1020408163266
+    ],
+    "BonusMeterReveal3": [
+      4150,
+      1750
+    ],
+    "BonusSymbolReveal": [
+      6200,
+      1006.2358276643986
+    ]
+  }
+}

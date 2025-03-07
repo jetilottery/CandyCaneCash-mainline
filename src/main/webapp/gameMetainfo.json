@@ -1,0 +1,10 @@
+{
+    "game":
+    {
+        "name": "CandyCaneCash",
+        "id": "300-2218-0",
+        "framework": "jet",
+        "version": "1.5",
+        "studio": "interactive"
+    }
+}

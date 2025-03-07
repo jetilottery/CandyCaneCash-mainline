@@ -1,0 +1,139 @@
+{
+    "version": "",
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "od {@minRTP}% do {@maxRTP}%",
+        "paybackTitle": "Oczekiwany zwrot",
+        "paybackBody": "Długoterminowy, teoretycznie oczekiwany zwrot w tej grze wynosi {RTP}.",
+        "subheading": "Opłata za los: {ticketCost}",
+        "prizeLevel": "Stopień wygranej",
+        "description": "Opis",
+        "prizeValue": "Wartość wygranej",
+        "descriptionText1": "Obecna wygrana",
+        "descriptionText2": "Wygrana bonusowa",
+        "overallChances": "Łączna szansa wygrania nagrody w każdej rozgrywce wynosi 1 do {odds}.",
+        "prizeDivision": "Stopień wygranej",
+        "prizeRemaining": "Pozostało do wygrania",
+        "oddsPerPlay": "Szansa na wygraną"
+
+    },
+    "title": "SZABLON",
+    "MenuCommand":
+    {
+        "price": "Cena",
+        "stake": "Stawka",
+        "howToPlay": "Pomoc",
+        "paytable": "Tabela wygranych",
+        "close": "Zamknij",
+        "audio":
+        {
+            "sound": "Dźwięk",
+            "on": "Wł.",
+            "off": "Wył."
+        }
+    },
+    "Error":
+    {
+        "errorCodePrefix": "Błąd: ",
+        "genericErrorText": "Wystąpił błąd wewnętrzny. WYJDŹ i uruchom ponownie grę."
+    },
+    "Game":
+    {
+        "footer_balance": "SALDO",
+        "footer_ticketCost": "OPŁATA ZA LOS",
+        "ticketSelect_ticketCost": "OPŁATA ZA LOS",
+        "ticketCostPrefix":
+        {
+            "BUY": "",
+            "TRY": ""
+        },
+        "footer_win":
+        {
+            "BUY": "WYGRANA",
+            "TRY": "WYGRANA DEMO"
+        },
+
+        "button_buy":
+        {
+            "BUY": "PŁACĘ",
+            "TRY": "DEMO"
+        },
+        "button_try": "DEMO",
+        "button_retry": "SPRÓBUJ PONOWNIE",
+        "button_continue": "KONTYNUUJ",
+        "button_moveToMoney": "GRAJ ZA PIENIĄDZE",
+        "button_autoPlay_landscape": "AUTO",
+        "button_autoPlay_portrait": "AUTO",
+        "button_autoPlay_bonus_portrait": "AUTO",
+        "button_autoPlay_bonus_landscape": "AUTO",
+        "button_stop": "STOP",
+        "button_playAgain":
+        {
+            "BUY": "GRAJ PONOWNIE",
+            "TRY": "SPRÓBUJ PONOWNIE"
+        },
+        "button_tryAgain": "SPRÓBUJ PONOWNIE",
+        "button_ok": "OK",
+        "button_exit": "WYJDŹ",
+
+        "error_button_exit": "WYJDŹ",
+        "error_title": "BŁĄD",
+
+        "message_nonWin": "POWODZENIA NASTĘPNYM\nRAZEM",
+        "message_win":
+        {
+            "BUY": "ŁĄCZNA WYGRANA",
+            "TRY": "DZIĘKUJEMY ZA GRĘ! MOŻNA BYŁO WYGRAĆ"
+        },
+        "howToPlayTitle": "ZASADY GRY",
+        "howToPlayTitleBonus": "ZŁOTY PREZENT",
+
+        "howToPlay":
+        {
+            "page1":
+            {
+                "landscape":
+                {
+                    "text1": "Odkryj symbol zielonego prezentu, aby zdobyć natychmiastową wygraną.",
+                    "text2": "{redChili}",
+                    "text3": "Odkryj zielone prezenty na wszystkich pozycjach w kolumnie, aby zdobyć natychmiastową wygraną pomnożoną przez odpowiadający im mnożnik.",
+                    "text4": ""
+                },
+                "portrait":
+                {
+                    "text1": "Odkryj symbol zielonego prezentu, aby zdobyć natychmiastową wygraną.",
+                    "text2": "{redChili}",
+                    "text3": "Odkryj zielone prezenty na wszystkich pozycjach w kolumnie,aby zdobyć natychmiastową wygraną pomnożoną przez odpowiadający im mnożnik.",
+                    "text4": ""
+                }
+            },
+            "page2":
+            {
+                "landscape":
+                {
+                    "text1": "Odkryj symbol złotego prezentu, aby uruchomić rundę bonusową.",
+                    "text2": "{goldChili}",
+                    "text3": "\n\nWybierz kafelki, aby odkryć kolorowe symbole lub mnożniki.\nWypełnij miernik 4 symbolami o takim samym kolorze, aby zdobyć odpowiadającą im wygraną.\n\nWskaźnik mnożnika początkowo ma wartość 1x i przesuwa się wraz z odsłoniętymi wartościami mnożnika. Wartość mnożnika podświetlona po wypełnieniu wskaźnika jest stosowana do wygranej wskaźnika."
+
+                },
+                "portrait":
+                {
+                    "text1": "Odkryj symbol złotego prezentu, aby uruchomić rundę bonusową.",
+                    "text2": "{goldChili}",
+                    "text3": "Wybierz kafelki, aby odkryć kolorowe symbole lub mnożniki.\nWypełnij miernik 4 symbolami o takim samym kolorze, aby zdobyć odpowiadającą im wygraną.\n\nWskaźnik mnożnika początkowo ma wartość 1x i przesuwa się wraz z odsłoniętymi wartościami mnożnika. Wartość mnożnika podświetlona po wypełnieniu wskaźnika jest stosowana do wygranej wskaźnika."
+                }
+            }
+        },
+
+        "winUpTo": "WYGRAJ DO",
+        "bonus": "ZŁOTY PREZENT",
+        "bonusNoWin": "BRAK WYGRANEJ BONUSOWEJ",
+        "bonusWin": "WYGRANA BONUSOWA",
+        "totalWin": "ŁĄCZNA WYGRANA",
+        "infoBarText": "WYGRANE SĄ MNOŻONE DLA PEŁNEJ KOLUMNY",
+        "bonusInfo": "ODKRYJ, ABY ZDOBYĆ\nNATYCHMIASTOWĄ WYGRANĄ",
+        "bonusInfo2": "ODKRYJ, ABY\nURUCHOMIĆ BONUS",
+        "collectorMeterInfoText": "Odkryj kafelki w poszukiwaniu symboli, aby zdobyć wygraną\npierwszego wypełnionego wskaźnika. Zbieraj mnożniki, aby zdobyć większe wygrane!"
+    }
+}

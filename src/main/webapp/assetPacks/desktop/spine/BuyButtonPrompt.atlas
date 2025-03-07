@@ -1,0 +1,13 @@
+
+BuyButtonPrompt.png
+size: 190,191
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+trans/buyPrompt
+  rotate: false
+  xy: 2, 2
+  size: 186, 187
+  orig: 186, 187
+  offset: 0, 0
+  index: -1
